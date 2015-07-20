@@ -1,0 +1,249 @@
+01 	Ain 	Bourg-en-Bresse 	Belley
+Gex
+Nantua 	Rhône-Alpes 	Ain-Position.svg
+02 	Aisne 	Laon 	Château-Thierry
+Saint-Quentin
+Soissons
+Vervins 	Picardie 	Aisne-Position.svg
+03 	Allier 	Moulins 	Montluçon
+Vichy 	Auvergne 	Allier-Position.svg
+04 	Alpes-de-Haute-Provence 	Digne-les-Bains 	Barcelonnette
+Castellane
+Forcalquier 	Provence-Alpes-Côte d'Azur 	Alpes-de-Haute-Provence-Position.svg
+05 	Hautes-Alpes 	Gap 	Briançon 	Hautes-Alpes-Position.svg
+06 	Alpes-Maritimes 	Nice 	Grasse 	Alpes-Maritimes-Position.svg
+07 	Ardèche 	Privas 	Largentière
+Tournon-sur-Rhône 	Rhône-Alpes 	Ardèche-Position.svg
+08 	Ardennes 	Charleville-Mézières 	Rethel
+Sedan
+Vouziers 	Champagne-Ardenne 	Ardennes-Position.svg
+09 	Ariège 	Foix 	Pamiers
+Saint-Girons 	Midi-Pyrénées 	Ariège-Position.svg
+10 	Aube 	Troyes 	Bar-sur-Aube
+Nogent-sur-Seine
+	Champagne-Ardenne 	Aube-Position.svg
+11 	Aude 	Carcassonne 	Limoux
+Narbonne 	Languedoc-Roussillon 	Aude-Position.svg
+12 	Aveyron 	Rodez 	Millau
+Villefranche-de-Rouergue 	Midi-Pyrénées 	Aveyron-Position.svg
+13 	Bouches-du-Rhône 	Marseille 	Aix-en-Provence
+Arles
+Istres 	Provence-Alpes-Côte d'Azur 	Bouches-du-Rhône-Position.svg
+14 	Calvados 	Caen 	Bayeux
+Lisieux
+Vire 	Basse-Normandie 	Calvados-Position.svg
+15 	Cantal 	Aurillac 	Mauriac
+Saint-Flour 	Auvergne 	Cantal-Position.svg
+16 	Charente 	Angoulême 	Cognac
+Confolens 	Poitou-Charentes 	Charente-Position.svg
+17 	Charente-Maritime 	La Rochelle 	Jonzac
+Rochefort
+Saint-Jean-d'Angély
+Saintes 	Charente-Maritime-Position.svg
+18 	Cher 	Bourges 	Saint-Amand-Montrond
+Vierzon 	Centre-Val de Loire 	Cher-Position.svg
+19 	Corrèze 	Tulle 	Brive-la-Gaillarde
+Ussel 	Limousin 	Corrèze-Position.svg
+2A 	Corse-du-Sud 	Ajaccio 	Sartène 	Corse 	Corse-du-Sud-Position.svg
+2B 	Haute-Corse 	Bastia 	Calvi
+Corte 	Haute-Corse-Position.svg
+21 	Côte-d'Or 	Dijon 	Beaune
+Montbard 	Bourgogne 	Côte-d’Or-Position.svg
+22 	Côtes-d'Armor 	Saint-Brieuc 	Dinan
+Guingamp
+Lannion 	Bretagne 	Côtes-d’Armor-Position.svg
+23 	Creuse 	Guéret 	Aubusson 	Limousin 	Creuse-Position.svg
+24 	Dordogne 	Périgueux 	Bergerac
+Nontron
+Sarlat-la-Canéda 	Aquitaine 	Dordogne-Position.svg
+25 	Doubs 	Besançon 	Montbéliard
+Pontarlier 	Franche-Comté 	Doubs-Position.svg
+26 	Drôme 	Valence 	Die
+Nyons 	Rhône-Alpes 	Drôme-Position.svg
+27 	Eure 	Évreux 	Les Andelys
+Bernay 	Haute-Normandie 	Eure-Position.svg
+28 	Eure-et-Loir 	Chartres 	Châteaudun
+Dreux
+Nogent-le-Rotrou 	Centre-Val de Loire 	Eure-et-Loir-Position.svg
+29 	Finistère 	Quimper 	Brest
+Châteaulin
+Morlaix 	Bretagne 	Finistère-Position.svg
+30 	Gard 	Nîmes 	Alès
+Le Vigan 	Languedoc-Roussillon 	Gard-Position.svg
+31 	Haute-Garonne 	Toulouse 	Muret
+Saint-Gaudens 	Midi-Pyrénées 	Haute-Garonne-Position.svg
+32 	Gers 	Auch 	Condom
+Mirande 	Gers-Position.svg
+33 	Gironde 	Bordeaux 	Arcachon
+Blaye
+Langon
+Lesparre-Médoc
+Libourne 	Aquitaine 	Gironde-Position.svg
+34 	Hérault 	Montpellier 	Béziers
+Lodève 	Languedoc-Roussillon 	Hérault-Position.svg
+35 	Ille-et-Vilaine 	Rennes 	Fougères
+Redon
+Saint-Malo 	Bretagne 	Ille-et-Vilaine-Position.svg
+36 	Indre 	Châteauroux 	Le Blanc
+La Châtre
+Issoudun 	Centre-Val de Loire 	Indre-Position.svg
+37 	Indre-et-Loire 	Tours 	Chinon
+Loches 	Indre-et-Loire-Position.svg
+38 	Isère 	Grenoble 	La Tour-du-Pin
+Vienne 	Rhône-Alpes 	Isère-Position.svg
+39 	Jura 	Lons-le-Saunier 	Dole
+Saint-Claude 	Franche-Comté 	Jura-Position.svg
+40 	Landes 	Mont-de-Marsan 	Dax 	Aquitaine 	Landes-Position.svg
+41 	Loir-et-Cher 	Blois 	Romorantin-Lanthenay
+Vendôme 	Centre-Val de Loire 	Loir-et-Cher-Position.svg
+42 	Loire 	Saint-Étienne 	Montbrison
+Roanne 	Rhône-Alpes 	Loire-Position.svg
+43 	Haute-Loire 	Le Puy-en-Velay 	Brioude
+Yssingeaux 	Auvergne 	Haute-Loire-Position.svg
+44 	Loire-Atlantique 	Nantes 	Ancenis
+Châteaubriant
+Saint-Nazaire 	Pays de la Loire 	Loire-Atlantique-Position.svg
+45 	Loiret 	Orléans 	Montargis
+Pithiviers 	Centre-Val de Loire 	Loiret-Position.svg
+46 	Lot 	Cahors 	Figeac
+Gourdon 	Midi-Pyrénées 	Lot-Position.svg
+47 	Lot-et-Garonne 	Agen 	Marmande
+Nérac
+Villeneuve-sur-Lot 	Aquitaine 	Lot-et-Garonne-Position.svg
+48 	Lozère 	Mende 	Florac 	Languedoc-Roussillon 	Lozère-Position.svg
+49 	Maine-et-Loire 	Angers 	Cholet
+Saumur
+Segré 	Pays de la Loire 	Maine-et-Loire-Position.svg
+50 	Manche 	Saint-Lô 	Avranches
+Cherbourg
+Coutances 	Basse-Normandie 	Manche-Position.svg
+51 	Marne 	Châlons-en-Champagne 	Épernay
+Reims
+Sainte-Menehould
+Vitry-le-François 	Champagne-Ardenne 	Marne-Position.svg
+52 	Haute-Marne 	Chaumont 	Langres
+Saint-Dizier 	Haute-Marne-Position.svg
+53 	Mayenne 	Laval 	Château-Gontier
+Mayenne 	Pays de la Loire 	Mayenne-Position.svg
+54 	Meurthe-et-Moselle 	Nancy 	Briey
+Lunéville
+Toul 	Lorraine 	Meurthe-et-Moselle-Position.svg
+55 	Meuse 	Bar-le-Duc 	Commercy
+Verdun 	Meuse-Position.svg
+56 	Morbihan 	Vannes 	Lorient
+Pontivy 	Bretagne 	Morbihan-Position.svg
+57 	Moselle 	Metz 	Boulay-Moselle
+Château-Salins
+Forbach
+Sarrebourg
+Sarreguemines
+Thionville 	Lorraine 	Moselle-Position.svg
+58 	Nièvre 	Nevers 	Château-Chinon (Ville)
+Clamecy
+Cosne-Cours-sur-Loire 	Bourgogne 	Nièvre-Position.svg
+59 	Nord 	Lille 	Avesnes-sur-Helpe
+Cambrai
+Douai
+Dunkerque
+Valenciennes 	Nord-Pas-de-Calais 	Nord-Position.svg
+60 	Oise 	Beauvais 	Clermont
+Compiègne
+Senlis 	Picardie 	Oise-Position.svg
+61 	Orne 	Alençon 	Argentan
+Mortagne-au-Perche 	Basse-Normandie 	Orne-Position.svg
+62 	Pas-de-Calais 	Arras 	Béthune
+Boulogne-sur-Mer
+Calais
+Lens
+Montreuil
+Saint-Omer 	Nord-Pas-de-Calais 	Pas-de-Calais-Position.svg
+63 	Puy-de-Dôme 	Clermont-Ferrand 	Ambert
+Issoire
+Riom
+Thiers 	Auvergne 	Puy-de-Dôme-Position.svg
+64 	Pyrénées-Atlantiques 	Pau 	Bayonne
+Oloron-Sainte-Marie 	Aquitaine 	Pyrénées-Atlantiques-Position.svg
+65 	Hautes-Pyrénées 	Tarbes 	Argelès-Gazost
+Bagnères-de-Bigorre 	Midi-Pyrénées 	Hautes-Pyrénées-Position.svg
+66 	Pyrénées-Orientales 	Perpignan 	Céret
+Prades 	Languedoc-Roussillon 	Pyrénées-Orientales-Position.svg
+67 	Bas-Rhin 	Strasbourg 	Haguenau
+Molsheim
+Saverne
+Sélestat
+Wissembourg 	Alsace 	Bas-Rhin-Position.svg
+68 	Haut-Rhin 	Colmar 	Altkirch
+Guebwiller
+Mulhouse
+Ribeauvillé
+Thann 	Haut-Rhin-Position.svg
+69 	Circonscription départementale du Rhône, incluant le département du Rhône (69D) et la métropole de Lyon (69M)1 	Lyon2 	Villefranche-sur-Saône 	Rhône-Alpes 	Rhône 2015-Position.svg
+
+Métropole de Lyon-Position.svg
+70 	Haute-Saône 	Vesoul 	Lure 	Franche-Comté 	Haute-Saône-Position.svg
+71 	Saône-et-Loire 	Mâcon 	Autun
+Chalon-sur-Saône
+Charolles
+Louhans 	Bourgogne 	Saône-et-Loire-Position.svg
+72 	Sarthe 	Le Mans 	La Flèche
+Mamers 	Pays de la Loire 	Sarthe-Position.svg
+73 	Savoie 	Chambéry 	Albertville
+Saint-Jean-de-Maurienne 	Rhône-Alpes 	Savoie-Position.svg
+74 	Haute-Savoie 	Annecy 	Bonneville
+Saint-Julien-en-Genevois
+Thonon-les-Bains 	Haute-Savoie-Position.svg
+75 	
+Paris
+	  	Île-de-France 	Paris-Position.svg
+76 	Seine-Maritime 	Rouen 	Dieppe
+Le Havre 	Haute-Normandie 	Seine-Maritime-Position.svg
+77 	Seine-et-Marne 	Melun 	Fontainebleau
+Meaux
+Provins
+Torcy 	Île-de-France 	Seine-et-Marne-Position.svg
+78 	Yvelines 	Versailles 	Mantes-la-Jolie
+Rambouillet
+Saint-Germain-en-Laye 	Yvelines-Position.svg
+79 	Deux-Sèvres 	Niort 	Bressuire
+Parthenay 	Poitou-Charentes 	Deux-Sèvres-Position.svg
+80 	Somme 	Amiens 	Abbeville
+Montdidier
+Péronne 	Picardie 	Somme-Position.svg
+81 	Tarn 	Albi 	Castres 	Midi-Pyrénées 	Tarn-Position.svg
+82 	Tarn-et-Garonne 	Montauban 	Castelsarrasin 	Tarn-et-Garonne-Position.svg
+83 	Var 	Toulon 	Brignoles
+Draguignan 	Provence-Alpes-Côte d'Azur 	Var-Position.svg
+84 	Vaucluse 	Avignon 	Apt
+Carpentras 	Vaucluse-Position.svg
+85 	Vendée 	La Roche-sur-Yon 	Fontenay-le-Comte
+Les Sables-d'Olonne 	Pays de la Loire 	Vendée-Position.svg
+86 	Vienne 	Poitiers 	Châtellerault
+Montmorillon 	Poitou-Charentes 	Vienne-Position.svg
+87 	Haute-Vienne 	Limoges 	Bellac
+Rochechouart 	Limousin 	Haute-Vienne-Position.svg
+88 	Vosges 	Épinal 	Neufchâteau
+Saint-Dié-des-Vosges 	Lorraine 	Vosges-Position.svg
+89 	Yonne 	Auxerre 	Avallon
+Sens 	Bourgogne 	Yonne-Position.svg
+90 	Territoire de Belfort 	Belfort 	  	Franche-Comté 	Territoire de Belfort-Position.svg
+91 	Essonne 	Évry 	Étampes
+Palaiseau 	Île-de-France 	Essonne-Position.svg
+92 	Hauts-de-Seine 	Nanterre 	Antony
+Boulogne-Billancourt 	Hauts-de-Seine-Position.svg
+93 	Seine-Saint-Denis 	Bobigny 	Le Raincy
+Saint-Denis 	Seine-Saint-Denis-Position.svg
+94 	Val-de-Marne 	Créteil 	L'Haÿ-les-Roses
+Nogent-sur-Marne 	Val-de-Marne-Position.svg
+95 	Val-d'Oise 	Cergy
+(chef-lieu à Pontoise)3 	Argenteuil
+Pontoise
+Sarcelles
+	Val-d’Oise-Position.svg
+971 	Guadeloupe 	Basse-Terre 	Pointe-à-Pitre 	Guadeloupe 	LocationGuadeloupe.png
+972 	Martinique 	Fort-de-France 	La Trinité
+Le Marin 	Martinique 	LocationMartinique.png
+973 	Guyane 	Cayenne 	Saint-Laurent-du-Maroni 	Guyane 	Location-Guyane-France.png
+974 	La Réunion 	Saint-Denis 	Saint-Benoît
+Saint-Paul
+Saint-Pierre 	La Réunion 	Location-Reunion-France.png
+976 	Mayotte 	Mamoudzou 	  	Mayotte 	Mayotte (orthographic projection).svg
