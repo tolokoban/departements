@@ -104,7 +104,7 @@ function writeLists(output, departements) {
  * Ecrire le code HTML pour la section principale.
  */
 function writeMainSection(output, departements) {
-  FS.writeSync(output, "<section id='main'>");
+  FS.writeSync(output, "<section id='main'><h1>Choisissez votre département</h1>");
   var clef;
   var derniereClef = "";
   departements.forEach(
