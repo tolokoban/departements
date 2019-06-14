@@ -46,6 +46,7 @@ function writeMap(output, departements) {
   var begin = contenu.indexOf('<g id="complete_map">');
   var end = contenu.indexOf('<g class="zoom_box">');
   contenu = contenu.substr(begin, end - begin);
+  contenu = compresserCarte(contenu);
   contenu = contenu.replace(/land departement/g, 'd d');
   contenu = '<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="100%" height="100%" viewBox="0 0 510 560">'
     + contenu + "</svg>";
@@ -174,4 +175,71 @@ function creerDepartement(ligne) {
     prefecture: parties[2].trim(),
     sousPrefectures: parties[3].trim()
   };
+}
+
+/**
+ * Les chemins SVG (`path`) sont trop précis pour nos besoins. Cela mène
+ * à un fichier trop gros. Nous nous limitons à des coordonnées entières
+ * pour éviter de gaspiller des octets.
+ */
+function compresserCarte(contenu) {
+  var output = "";
+  var index, cursor = 0;
+  var path;
+  for(;;) {
+    index = contenu.indexOf("<path d=", cursor);
+    if (index < 0) break;
+    output += contenu.substr(cursor, index - cursor) + "<path d=";
+    cursor = index + 9;
+    index = contenu.indexOf('"', cursor);
+    path = contenu.substr(cursor, index - cursor);
+    cursor = index + 1;
+    output += '"' + simplifierChemin(path) + '"';
+  }
+
+  output += contenu.substr(cursor);
+  return output;
+}
+
+function simplifierChemin(chemin) {
+  var commandes = [];
+  var c, index, nombre, mode = 0;
+  for (index = 0 ; index < chemin.length ; index++) {
+    c = chemin.charAt(index);
+    if (mode == 0) {
+      if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z')) {
+        commandes.push(c);
+      }
+      else if (c == '-' || c == '.' || (c >= '0' && c <= '9')) {
+        mode = 1;
+        nombre = c;
+      }
+    }
+    else if (mode == 1) {
+      if (c == '-' || c == '.' || (c >= '0' && c <= '9')) {
+        nombre += c;
+      } else {
+        mode = 0;
+        commandes.push(parseFloat(nombre));
+      }
+    }
+  }
+  if (mode == 1) {
+    commandes.push(parseFloat(nombre));
+  }
+  // Recoller les morceaux en évitant les espace superflus.
+  var laDerniereCommandeEtaitUnNombre = false;
+  var output = "";
+  commandes.forEach(
+    function(cmd) {
+      var cetteCommandeEstUnNombre = (typeof cmd === 'number');
+      if (laDerniereCommandeEtaitUnNombre && cetteCommandeEstUnNombre) {
+        output += ",";
+      }
+      laDerniereCommandeEtaitUnNombre = cetteCommandeEstUnNombre;
+      output += cetteCommandeEstUnNombre ? Math.floor(.5 + cmd) : cmd;
+    }
+  );
+
+  return output;
 }
